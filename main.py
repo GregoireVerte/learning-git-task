@@ -11,4 +11,8 @@ for shop, items in shopping_dict.items():
     shop = shop.capitalize()
     items_capitalized = [item.capitalize() for item in items]
     print(f"Idę do {shop}, kupuję tu następujące reczy: {items_capitalized}.")
-    
+    total_items += len(items)
+
+
+print(f"W sumie kupuję {total_items} produktów.")
+
