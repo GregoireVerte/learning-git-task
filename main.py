@@ -16,3 +16,5 @@ for shop, items in shopping_dict.items():
 
 print(f"W sumie kupuję {total_items} produktów.")
 
+##THE END
+
