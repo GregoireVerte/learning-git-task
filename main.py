@@ -24,3 +24,16 @@ price2 = 11.24
 total_price = price1 + price2
 
 print(total_price)
+
+
+### POZDROWIENIA !!!!
+
+
+print(" POZDROWIENIA !!!! ")
+
+
+"""
+ P.S. Właśnie przyczytałem, że zgodnie z najlepszą praktyką i konwencją nazewnictwa
+ branch'y na GitHub powinno sie stosować małe litery, ale już za późno...
+ 
+"""
