@@ -18,3 +18,5 @@ print(f"W sumie kupuję {total_items} produktów.")
 
 ##THE END
 
+price1 = 12.50
+price2 = 11.24
