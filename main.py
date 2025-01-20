@@ -20,3 +20,5 @@ print(f"W sumie kupuję {total_items} produktów.")
 
 price1 = 12.50
 price2 = 11.24
+
+total_price = price1 + price2
